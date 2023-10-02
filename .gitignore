@@ -1,9 +1,9 @@
 .venv/
 
-calc_gross_pay.py
-Coin Toss.py
-CoinClass.py
-InsectClass.py
-InsectProgram.py
-BankAccountClass.py
-BankAccountProgram.py
+03_calc_gross_pay.py
+05_CoinToss.py
+04_CoinClass.py
+06_InsectClass.py
+07_InsectProgram.py
+01_BankAccountClass.py
+02_BankAccountProgram.py
